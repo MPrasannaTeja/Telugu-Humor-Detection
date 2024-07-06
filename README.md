@@ -15,7 +15,7 @@ To run the humor detection model, use the following command:
 python humor_detection.py --input_file <path_to_input_file> --output_file <path_to_output_file>
 ```
 ## Data
-The dataset consists of Telugu tweets collected and annotated for humor detection. The data is stored in the data directory.
+The dataset consists of Telugu tweets collected and annotated for humor detection. 
 
 
 ## Authors
